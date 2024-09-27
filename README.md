@@ -3,4 +3,9 @@ flatlist + UseEffect api
 
 
 Screen01
-![image](https://github.com/user-attachments/assets/3f196ad3-6209-4ed2-8e55-31d163f904b3)
+
+![image](https://github.com/user-attachments/assets/d8a4c478-5182-49db-a2c0-b6d5fb98dac7)
+
+Screen02
+
+![image](https://github.com/user-attachments/assets/18389bde-e162-4616-b89f-253e13df612f)
