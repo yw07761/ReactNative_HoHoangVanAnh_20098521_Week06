@@ -164,7 +164,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: 'white',
     flex: 1,
-    marginHorizontal: 30,
+    marginHorizontal: 10,
     borderRadius: 20,
     paddingHorizontal: 10,
   },
@@ -177,8 +177,6 @@ const styles = StyleSheet.create({
     color: 'black',
   },
   item: {
-    backgroundColor: '#d5d8dc',
-    padding: 30,
     margin: 2,
     flex: 1,
     maxWidth: '48%',
